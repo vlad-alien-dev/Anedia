@@ -57,13 +57,36 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\background.png" />
+    <Content Include="assets\batDeath.png" />
+    <Content Include="assets\batSpritesheet.png" />
+    <Content Include="assets\bottom_left.png" />
+    <Content Include="assets\bottom_right.png" />
+    <Content Include="assets\countryside.mp3" />
+    <Content Include="assets\crosshair.png" />
+    <Content Include="assets\die.mp3" />
+    <Content Include="assets\egg.png" />
+    <Content Include="assets\gameOver.mp3" />
+    <Content Include="assets\shot.mp3" />
+    <Content Include="assets\shot.wav" />
+    <Content Include="assets\tick.mp3" />
+    <Content Include="assets\top_left.png" />
+    <Content Include="assets\top_right.png" />
+    <Content Include="assets\wolf_left.png" />
+    <Content Include="assets\wolf_right.png" />
     <Content Include="index.html" />
+    <Content Include="init.js" />
+    <Content Include="test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\gameOver.ogg" />
+    <Content Include="assets\POL-countryside-short.ogg" />
+    <Content Include="assets\shot.ogg" />
+    <Content Include="assets\tick.ogg" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
