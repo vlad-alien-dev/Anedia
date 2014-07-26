@@ -77,10 +77,6 @@
     <Content Include="index.html" />
     <Content Include="init.js" />
     <Content Include="test.html" />
-    <Content Include="normalize.css" />
-        <Content Include="game.css" />
-    <Content Include="init.js" />
-        <Content Include="http://code.createjs.com/createjs-2013.12.12.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
