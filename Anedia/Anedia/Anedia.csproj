@@ -75,6 +75,9 @@
     <Content Include="assets\wolf_left.png" />
     <Content Include="assets\wolf_right.png" />
     <Content Include="index.html" />
+    <Content Include="Let me be a programmer\index.html" />
+    <Content Include="Let me be a programmer\scripts.js" />
+    <Content Include="Let me be a programmer\style.css" />
     <Content Include="normalize.css" />
     <Content Include="game.css" />
     <Content Include="init.js" />

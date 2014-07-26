@@ -1,0 +1,46 @@
+﻿body, header, footer, aside, ul, li, h1, h2, div, a {
+    margin: 0;
+    padding: 0;
+}
+body {
+}
+
+header {
+    height: 150px;
+    background: #C3C3E5;
+}
+
+    header a h1 {
+        font-family:'Showcard Gothic';
+        font-size: 3.4em;
+        text-align: center;
+        color: #551A8B;
+    }
+    
+        header h1:hover {
+            color: white;
+            text-decoration-color: white;
+        }
+
+        header a:hover {
+            color: white;
+            text-decoration-color: white;
+        }
+
+    header ul {
+        list-style-type: none;
+        margin-left:195px;
+    }
+
+        header ul li {
+            display: inline-block;
+            margin-left: 100px;
+        }
+
+            header ul li a {
+                text-decoration: none;
+                color:#602A7F;
+                font-family: Calibri;
+                font-size: 2em;
+                font-weight: bold;
+            }
