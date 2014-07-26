@@ -77,6 +77,8 @@
     <Content Include="index.html" />
     <Content Include="init.js" />
     <Content Include="test.html" />
+    <Content Include="normalize.css" />
+    <Content Include="init.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
